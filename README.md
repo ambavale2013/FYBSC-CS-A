@@ -1,3 +1,8 @@
 # FYBSC-CS-A
-Today I sign in GIT HUB for my practical session.
-Thankyou 
+HELLO WORLD
+#include<stdio.h>
+int main()
+{
+printf("HELLO WORlD")
+return 0;
+}
